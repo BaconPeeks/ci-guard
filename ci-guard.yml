@@ -1,0 +1,2 @@
+commitPattern: "^(feat|fix|docs|refactor|test|chore): .+"
+maxLength: 72
